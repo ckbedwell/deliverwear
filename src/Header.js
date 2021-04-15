@@ -1,6 +1,8 @@
 import logo from './logo.svg'
 import './Header.css'
 
+import { SignIn } from './SignIn'
+
 export const Header = () => {
   return (
     <header className="header">
@@ -15,6 +17,7 @@ export const Header = () => {
           <p>Merchant portal</p>
         </div>
       </div>
+      <SignIn />
     </header>
   )
 }
