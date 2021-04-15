@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Awesome hat",
+    "id": 1,
+    "price": 100,
+    "description": "This is my very fancy hat."
+  },
+  {
+    "name": "Top notch tie",
+    "id": 2,
+    "price": 90,
+    "description": "Every occasion needs a tie."
+  },
+  {
+    "name": "Super sunglasses",
+    "price": 150,
+    "description": "Cool even in the club."
+  },
+  {
+    "name": "The one-and-only monocle",
+    "id": "ERR_DATABASE",
+    "price": 250,
+    "description": "Absolutely timeless"
+  }
+]
